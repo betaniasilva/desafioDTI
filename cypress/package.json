@@ -1,0 +1,17 @@
+{
+  "name": "desafiodti",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000d\u0000e\u0000s\u0000a\u0000f\u0000i\u0000o\u0000D\u0000T\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
